@@ -3,6 +3,9 @@ Love Travels Website
 
 ## Available Scripts
 
+### `npm install`
+
+ for downloading node modules 
 
  project directory, you can run:
 
